@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "763105433726",
+    "project_id": "premium-note-app",
+    "storage_bucket": "premium-note-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763105433726:android:b58ab7b2f4d30dc99c602f",
+        "android_client_info": {
+          "package_name": "com.premium_fivver_note_app.premium_fivver_note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763105433726-n652cnc1agam1mjturm4hc98dalv87ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.premium_fivver_note_app.premium_fivver_note_app",
+            "certificate_hash": "6b2f4cf6cc030f802fbb67a0df86442ad4012849"
+          }
+        },
+        {
+          "client_id": "763105433726-t0a5ifm6cb6mmccqb8rsoiq6gfrfu3uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgxzbfL_cNGvZmFpeBcUbFW6MVsdLBfPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763105433726-t0a5ifm6cb6mmccqb8rsoiq6gfrfu3uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
