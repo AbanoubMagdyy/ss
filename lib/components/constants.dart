@@ -1,6 +1,6 @@
 String login = 'createAccountDone';
 
 
-
-int a = 45;
-int aaa = 445;
+String dsf = 'sa';
+String adsf = 'sa';
+String dssf = 'sa';
